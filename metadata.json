@@ -1,0 +1,7 @@
+{
+  "name": "Chen Laoshi - AI Chinese Tutor",
+  "description": "An advanced, adaptive Chinese language tutor using Gemini Live for real-time conversation and Gemini Pro for dynamic curriculum generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
